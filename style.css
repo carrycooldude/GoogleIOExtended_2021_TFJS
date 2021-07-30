@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  color: #3D3D3D;
+}
+
+h1 {
+  font-style: italic;
+  color: #FF6F00;
+}
+
+video {
+  display: block;
+}
+
+section {
+  opacity: 1;
+  transition: opacity 500ms ease-in-out;
+}
